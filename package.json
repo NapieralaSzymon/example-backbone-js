@@ -5,10 +5,6 @@
 	"main": "index.html",
 	"author": "Szymon Napierała",
 	"license": "ISC",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/NapieralaSzymon/example-backbone-js.git"
-	},
 	"dependencies": {
 		"backbone": "1.3.3",
 		"jquery": "3.2.1",
