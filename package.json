@@ -9,6 +9,6 @@
 		"backbone": "1.4.0",
 		"jquery": "3.5.1",
 		"requirejs": "2.3.6",
-		"underscore": "1.10.2"
+		"underscore": "1.12.1"
 	}
 }
